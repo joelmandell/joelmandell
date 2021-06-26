@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 My name is Joel Mandell and I like to tinker with code. For the last 5 years I have been deep into the .NET-stack. And I learned to love it.
-One of the reasons is the new direction Microsoft took and embracing opensoure and making this platform-independent (runs on for example Linux).
+One of the reasons is the direction Microsoft took, by embracing opensoure and making .NET Core, platform-independent (I.E runs on Linux).
+
+I work as a fullstack-developer at the Swedish company, Idavall Data AB. They have booking software for about 60% of Swedens municipalicities. My responsibility is to move from Win32 Forms application to cloud based solution. I am mostly found of making API:s and - hopefully - make it easier for my fellow developers at my job to do improvements on the code base, by making it fund and easy to implement new features.
+
+I have only done some small contributions to opensource during my time. For example vue-apollo version 3 (with possibility for reactive pollingInterval).
+
+I have a youtube channel that I seldom upload to, but from time to time, I post something with a solution that maybe others could benefit from (https://t.co/IHqvNyxjGn?amp=1).
 
 <!--
 **joelmandell/joelmandell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
