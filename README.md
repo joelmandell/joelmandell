@@ -9,7 +9,9 @@ Previously I was working as a fullstack-developer at Idavall Data AB. They have 
 
 I have only done some small contributions to opensource during my time. For example vue-apollo version 3 (with possibility for reactive pollingInterval).
 
-I have a youtube channel that I seldom upload to, but from time to time, I post something with a solution that maybe others could benefit from (https://t.co/IHqvNyxjGn?amp=1).
+<!--I have a youtube channel that I seldom upload to, but from time to time, I post something with a solution that maybe others could benefit from (https://t.co/IHqvNyxjGn?amp=1).-->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=joelmandell&show_icons=true)
 
 <!--
 **joelmandell/joelmandell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
