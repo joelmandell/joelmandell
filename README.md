@@ -12,7 +12,7 @@ A lot of focus has been on Server-rendered Blazor components lately. Blazor is s
 
 Previously I was working as a fullstack-developer at Idavall Data AB. They have booking software that is used by around 60% of Swedens municipalicities. My responsibilities was to move from Win32 Forms application to cloud based solution. 
 
-My goal is to always make it easier for my fellow developers to do improvements on the code base, by making it fun and easy to implement new features.
+My goal is to always make it easier for my fellow developers to do improvements on the code base, by making it fun to maintain, while easy to implement new features.
 
 <!--I have a youtube channel that I seldom upload to, but from time to time, I post something with a solution that maybe others could benefit from (https://t.co/IHqvNyxjGn?amp=1).-->
 
