@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=joelmandell)
 
-My name is Joel Mandell and I like to tinker with code. For the last 5 years I have been deep into the .NET-stack. And I learned to love it.
+My name is Joel Mandell and I like to tinker with code. For the last 7 years I have been deep into the .NET-stack. And I learned to love it.
 One of the reasons is the direction Microsoft took: by embracing opensoure and making .NET Core, platform-independent (I.E runs on Linux).
 
 I would love to create software that other developers can use (i.e. framework, libraries, IDEs). I do not have any project on my own, but sometimes i try to contribute to OSS projects. Examples of some projects I have done PRs for: [efcore](https://github.com/dotnet/efcore), [bUnit](https://github.com/bUnit-dev/bUnit), [vue-apollo](https://github.com/vuejs/apollo).
